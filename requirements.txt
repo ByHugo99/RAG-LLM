@@ -1,0 +1,6 @@
+gemini-api
+clickhouse-client
+langchain
+langchain-text-splitters
+langchain-community
+langgraph
